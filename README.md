@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Tanner Rackow</h1>
-<h3 align="center">A enthusiastic software developer from Arizona.</h3>
+<h3 align="center">An enthusiastic software developer from Arizona.</h3>
 
 - 🔭 I’m currently working with GraphQL, Typscript, React.js, etc on [Ben Awad's Reddit Clone Project](https://github.com/iamTanTan/BenAwad-Tutorial-CodeAlong)
 
