@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with GraphQL, Typscript, React.js, etc on [Ben Awad's Reddit Clone Project](https://github.com/iamTanTan/BenAwad-Tutorial-CodeAlong)
 
-- 🌱 I’m currently learning **TypeScript, GraphQL, React.js**
+- 🌱 I’m currently experimenting with **TypeScript, GraphQL, React.js**
 
 - 👯 I’m looking to collaborate on interesting **Web Development Projects**
 
