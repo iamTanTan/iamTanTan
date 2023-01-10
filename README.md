@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tanner Rackow</h1>
 <h3 align="center">An enthusiastic software developer from Arizona.</h3>
 
-- 🔭 I’m currently working with GraphQL, Typscript, React.js, etc on [Simple Reddit Clone](https://github.com/iamTanTan/BenAwad-Tutorial-CodeAlong)
+- 🔭 I’m currently working with GraphQL, TypeScript, React.js, etc on [Simple Reddit Clone](https://github.com/iamTanTan/BenAwad-Tutorial-CodeAlong)
 
 - 🌱 I’m currently experimenting with **TypeScript, GraphQL, React.js**
 
