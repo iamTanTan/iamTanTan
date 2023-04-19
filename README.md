@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with TypeScript, React.js, TailwindCSS, tRPC, etc on [500 Jobs](https://github.com/iamTanTan/500Jobs)
 
-- 🌱 I’m currently experimenting with **TypeScript, GraphQL, tRPC, React.js**
+- 🌱 I’m currently experimenting with **TypeScript, GraphQL, tRPC, React.js, and Rust**
 
 - 👯 I’m looking to collaborate on interesting **Web Development Projects**
 
