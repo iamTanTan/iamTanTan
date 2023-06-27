@@ -1,13 +1,11 @@
 <h1 align="center">Hey, I'm Tanner Rackow</h1>
 <h3 align="center">An enthusiastic software developer from Arizona.</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamTanTan&show_icons=true&theme=transparent&count_private=true"  />
-
 - 🔭 I’m currently working with TypeScript, React.js, TailwindCSS, tRPC, etc on [500 Jobs](https://github.com/iamTanTan/500Jobs)
 
-- 🌱 I’m currently experimenting with **TypeScript, GraphQL, tRPC, React.js, and Rust**
+- 🌱 I’m currently experimenting with **TypeScript, React Native, and Rust**
 
-- 👯 I’m looking to collaborate on interesting **Web Development Projects**
+- 👯 I’m looking to collaborate on interesting **Web and Mobile Development Projects**
 
 - 📫 How to reach me **tsrackow@gmail.com**
 
